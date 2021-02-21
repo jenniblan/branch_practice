@@ -1,5 +1,11 @@
 # Favorite Plants
 
 - Monstera
-- Stripped Philodendron
+- Striped Philodendron
 - Limelight Dracaenas
+
+# Flowers
+
+- Purple Tulips
+- Petunias
+- Orchids
