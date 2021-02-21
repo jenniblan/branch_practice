@@ -4,7 +4,7 @@
 - Striped Philodendron
 - Limelight Dracaenas
 
-# Flowers
+# Indoor Flowers
 
 - Purple Tulips
 - Petunias
