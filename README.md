@@ -1,5 +1,17 @@
 # Favorite Plants
 
 - Monstera
-- Stripped Philodendron
+- Striped Philodendron
 - Limelight Dracaenas
+
+# Flowers
+
+- Purple Tulips
+- Petunias
+- Orchids
+
+# Aquatic Pets
+
+- African Dwarf Frog
+- Guppies
+- Mystery Snails
