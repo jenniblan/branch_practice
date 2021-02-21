@@ -4,7 +4,7 @@
 - Striped Philodendron
 - Limelight Dracaenas
 
-# Flowers
+# Floral
 
 - Purple Tulips
 - Petunias
