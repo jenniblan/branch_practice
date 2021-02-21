@@ -4,8 +4,14 @@
 - Striped Philodendron
 - Limelight Dracaenas
 
-# Indoor Flowers
+# Flowers
 
 - Purple Tulips
 - Petunias
 - Orchids
+
+# Aquatic Pets
+
+- African Dwarf Frog
+- Guppies
+- Mystery Snails
